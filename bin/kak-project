@@ -1,0 +1,8 @@
+#!/bin/sh
+
+session=$(printf %.7s $(printf %s "$PWD" | sha256sum))
+
+kak -l | grep --quiet $session ||
+  kak -d -s $session
+
+kak -c $session "$@"
