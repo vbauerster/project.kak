@@ -1,6 +1,13 @@
+Project
+=======
+
 [![IRC][IRC Badge]][IRC]
 
-[Kakoune][] extension to automatically generate session names.
+###### [Usage](#usage) | [Contributing](CONTRIBUTING)
+
+> [Kakoune][] extension to automatically generate session names.
+
+###### How does it work?
 
 The session name is based on the working directory.
 
