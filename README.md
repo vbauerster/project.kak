@@ -4,7 +4,7 @@
 
 ###### [Usage](#usage) | [Contributing](CONTRIBUTING)
 
-> [Kakoune][] extension to automatically generate session names.
+> [Kakoune] extension to automatically generate session names.
 
 ###### How does it work?
 
